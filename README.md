@@ -4,11 +4,9 @@
 
 ## Introduction
 
-GitHub is a huge resource for developers GitHub houses most of the code used by developers to build cool stuff it is the backbone of software development. 
+GitHub is a huge resource for developers, it houses most of the code used by for software development. But unfortunately, a lot of developers don't know how to use Git and GitHub especially beginners and they are unable to contribute because of this gap in their knowledge.
 
-But unfortunately, a lot of developers don't know how to use GitHub especially beginners and these guys may have a lot of stuff to contribute but can't because of this gap in their knowledge.
-
-This project was built to provide a resource for newbie developers to find all they need to understand GitHub.
+This project was built to provide a resource for newbie developers to find all they need to understand Git and GitHub.
 
 ## Contribution guidelines
 Here are the few contribution rules:
