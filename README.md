@@ -27,12 +27,15 @@ This project was built to provide resources for developers to find all they need
 - [Manage Your Versions with Git (Part I)](https://www.coursera.org/projects/git-1)
 - [Manage Your Versions with Git (Part II)](https://www.coursera.org/projects/git-2)
 - [Learn Gitpro-logo- Codecademy](https://www.codecademy.com/learn/learn-git)
+- [Git And GitHub in ~30 Minutes](https://www.youtube.com/watch?v=jG4Vs81kMlc)
 - [Git & Github Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=iCKAWxfVWUY)
 - [Git Tutorial For Beginners - Kudvenkat](https://www.youtube.com/watch?v=WEmvT2YFlQw&list=PL6n9fhu94yhVwbuqXKuPzchWNjZ8GVcJa)
-- [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
 - [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - [Git And GitHub Full Course In 3 Hours | Git And GitHub Tutorial For Beginners ](https://www.youtube.com/watch?v=liwv7Hi68aI)
-
+- [Git Tutorial | Github Tutorial | Git Tutorial for Beginners | Intellipaat](https://www.youtube.com/watch?v=dnGeRjP8oxw)
+- [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
+- [Git and GitHub Beginner Tutorials](https://www.youtube.com/watch?v=-U-eUHI6euM&list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG)
+- [Git and GitHub Tutorials](https://www.youtube.com/watch?v=r50BKIFGCI0&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
 
 # Git/GitHub Articles
 
