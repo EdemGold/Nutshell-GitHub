@@ -50,7 +50,7 @@ This project was built to provide resources for developers to find all they need
 - [Git Switch Branch – How to Change the Branch in Git](https://www.freecodecamp.org/news/git-switch-branch/)
 - [GitHub Guides](https://guides.github.com/activities/hello-world/)
 - [How To Use GitHub – Developers Collaboration Using GitHub](https://www.edureka.co/blog/how-to-use-github/)
- [A Really Useful Git Command For Quickly Searching Text](https://blog.yogeshchavan.dev/a-really-useful-git-command-for-quickly-searching-text)
+- [A Really Useful Git Command For Quickly Searching Text](https://blog.yogeshchavan.dev/a-really-useful-git-command-for-quickly-searching-text)
 - [Git Push to Remote Branch – How to Push a Local Branch to Origin](https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/)
 - [How To Delete All Local Git Branches In One Go](https://catalins.tech/how-to-delete-all-local-git-branches-in-one-go)
 - [Introduction to Git-Adding an SSH Key](https://laasyasettyblog.hashnode.dev/introduction-to-git-adding-an-ssh-key)
