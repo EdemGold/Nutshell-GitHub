@@ -51,7 +51,7 @@ This project was built to provide resources for developers to find all they need
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 - [Git Tutorial - Telusko](https://www.youtube.com/watch?v=OdbBmvfThJY&list=PLsyeobzWxl7q2eaUkorLZExfd7qko9sZC)
 
-#Git/GitHub Repositories
+# Git/GitHub Repositories
 
 - [GitHub Actions Starter Pack](https://github.com/jasonbarry/github-actions-starter-pack) - Sample code project for automating various tasks via GitHub Actions.
 
