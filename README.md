@@ -20,7 +20,7 @@ This project was built to provide resources for developers to find all they need
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Git and GitHub Crash Course By Google Coursera](https://www.youtube.com/watch?v=PtBr0fpKyFg)
 - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
-- [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
+- [Git In Depth](https://frontendmasters.com/courses/git-in-depth/)
 - [Git Tutorial for Beginners](https://www.youtube.com/watch?v=XF99kTmS2gg)
 - [GitHub Basics Tutorial - How to Use GitHub](https://www.youtube.com/watch?v=x0EYpi38Yp4)
 - [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github)
