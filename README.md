@@ -16,6 +16,7 @@ This project was built to provide resources for developers to find all they need
 # Git/GitHub Courses/Videos
 
 - [Introduction to Git and GitHub - Offered By Google](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation&utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-ROW&utm_content=11-GoogleITwithPython-ROW&campaignid=9733806670&adgroupid=119184274733&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507191775308&hide_mobile_promo&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs8cqMR-9WYlilq7CrcFTkE7wQT1K7qv1XDpTa5HtjEJckeoyiU6cpRoCyCgQAvD_BwE)
+- [Git & GitHub Crash Course For Beginners - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Git and GitHub Crash Course By Google Coursera](https://www.youtube.com/watch?v=PtBr0fpKyFg)
 - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
@@ -31,9 +32,11 @@ This project was built to provide resources for developers to find all they need
 - [Manage Your Versions with Git (Part I)](https://www.coursera.org/projects/git-1)
 - [Manage Your Versions with Git (Part II)](https://www.coursera.org/projects/git-2)
 - [Learn Gitpro-logo- Codecademy](https://www.codecademy.com/learn/learn-git)
-- [Git And GitHub in ~30 Minutes](https://www.youtube.com/watch?v=jG4Vs81kMlc)
+- [Git And GitHub in ~ 30 Minutes](https://www.youtube.com/watch?v=jG4Vs81kMlc)
 - [Git & Github Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=iCKAWxfVWUY)
 - [Git Tutorial For Beginners - Kudvenkat](https://www.youtube.com/watch?v=WEmvT2YFlQw&list=PL6n9fhu94yhVwbuqXKuPzchWNjZ8GVcJa)
+- [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY)
+- [Git & GitHub Tutorials](https://www.youtube.com/watch?v=_bkT85B6n1U&list=PLzS3AYzXBoj8mX3WbzQDghYytnx2JqBrU)
 - [Git Essentials: Mini Course](https://www.udemy.com/course/git-essentials-mini-course/)
 - [How Git Works- Plurasight](https://www.pluralsight.com/courses/how-git-works)
 - [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
