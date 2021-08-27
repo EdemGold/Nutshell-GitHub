@@ -38,7 +38,7 @@ This project was built to provide resources for developers to find all they need
 - [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY)
 - [Git & GitHub Tutorials](https://www.youtube.com/watch?v=_bkT85B6n1U&list=PLzS3AYzXBoj8mX3WbzQDghYytnx2JqBrU)
 - [Git Essentials: Mini Course](https://www.udemy.com/course/git-essentials-mini-course/)
-- [How Git Works- Plurasight](https://www.pluralsight.com/courses/how-git-works)
+- [How Git Works - Plurasight](https://www.pluralsight.com/courses/how-git-works)
 - [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - [Git And GitHub Full Course In 3 Hours | Git And GitHub Tutorial For Beginners ](https://www.youtube.com/watch?v=liwv7Hi68aI)
 - [Git Tutorial | Github Tutorial | Git Tutorial for Beginners | Intellipaat](https://www.youtube.com/watch?v=dnGeRjP8oxw)
