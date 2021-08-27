@@ -16,6 +16,10 @@ This project was built to provide resources for developers to find all they need
 # Git/GitHub Courses/Videos
 
 - [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+- [Git and GitHub SSH Configuration](https://chrisdevcode.hashnode.dev/git-and-github-ssh-configuration)
+- [Getting Started with GitHub CLI](https://onyxcode.net/gh-cli-getting-started)
+- [How to use Git and GitHub inside of VS Code Editor](https://blog.thefierycoder.tech/how-to-use-git-and-github-inside-of-vs-code-editor)
+- [Two Git commands you probably missed in your daily routine](https://thelinuxli.ch/two-git-commands-you-probably-missed-in-your-daily-routine)
 - [How to Get Started with Version Control Using Git](https://www.freecodecamp.org/news/get-started-with-version-control-and-git/)
 - [Understanding Git Terminologies : The Fun Way](https://hafsah.hashnode.dev/understanding-git-terminologies-the-fun-way-ckdet27bd003c42s13lsm5ry5)
 - [Baby Steps to Git and Version Control - Series 1](https://amarachiazubuike.com/baby-steps-to-git-and-version-control-series-1-ck36ciz5200eib1s1l5rscbdr)
