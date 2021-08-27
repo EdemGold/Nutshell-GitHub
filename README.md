@@ -15,11 +15,16 @@ This project was built to provide resources for developers to find all they need
 
 # Git/GitHub Courses/Videos
 
+- [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+- [How to Get Started with Version Control Using Git](https://www.freecodecamp.org/news/get-started-with-version-control-and-git/)
 - [GitHub Guides](https://guides.github.com/activities/hello-world/)
 - [How To Use GitHub – Developers Collaboration Using GitHub](https://www.edureka.co/blog/how-to-use-github/)
-- [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
 - [How To Contribute to Open Source: Getting Started with Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
+- [What is Commit Signing in Git?](https://www.freecodecamp.org/news/what-is-commit-signing-in-git/)
+- [How To Use Git: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 - [How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)
+- [How To Use Git Effectively](https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively)
+- [How To Use Git Branches](https://www.digitalocean.com/community/tutorials/how-to-use-git-branches)
 
 
 # Contributing
