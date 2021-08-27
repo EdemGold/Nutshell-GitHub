@@ -17,8 +17,13 @@ This project was built to provide resources for developers to find all they need
 
 - [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
 - [How to Get Started with Version Control Using Git](https://www.freecodecamp.org/news/get-started-with-version-control-and-git/)
+- [Understanding Git Terminologies : The Fun Way](https://hafsah.hashnode.dev/understanding-git-terminologies-the-fun-way-ckdet27bd003c42s13lsm5ry5)
+- [Baby Steps to Git and Version Control - Series 1](https://amarachiazubuike.com/baby-steps-to-git-and-version-control-series-1-ck36ciz5200eib1s1l5rscbdr)
+- [How to Fix Git Always Asking for User Credentials](https://blog.bolajiayodeji.com/how-to-fix-git-always-asking-for-user-credentials)
+- [How to Fork a Repo on GitHub using your Mobile Device](https://sudoc.hashnode.dev/series/git-for-beginners)
 - [GitHub Guides](https://guides.github.com/activities/hello-world/)
 - [How To Use GitHub – Developers Collaboration Using GitHub](https://www.edureka.co/blog/how-to-use-github/)
+- [Introduction to Git-Adding an SSH Key](https://laasyasettyblog.hashnode.dev/introduction-to-git-adding-an-ssh-key)
 - [How To Contribute to Open Source: Getting Started with Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
 - [What is Commit Signing in Git?](https://www.freecodecamp.org/news/what-is-commit-signing-in-git/)
 - [How To Use Git: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
