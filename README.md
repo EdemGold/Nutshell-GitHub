@@ -19,10 +19,15 @@ This project was built to provide resources for developers to find all they need
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
+- [Git Tutorial for Beginners](https://www.youtube.com/watch?v=XF99kTmS2gg)
 - [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github)
+- [Git Tutorial for Beginners - The Basics](https://www.youtube.com/watch?v=ly4niPr9vUo)
 - [Manage Your Versions with Git (Part I)](https://www.coursera.org/projects/git-1)
 - [Manage Your Versions with Git (Part II)](https://www.coursera.org/projects/git-2)
 - [Learn Gitpro-logo- Codecademy](https://www.codecademy.com/learn/learn-git)
+- [Git & Github Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=iCKAWxfVWUY)
+- [Git Tutorial For Beginners - Kudvenkat](https://www.youtube.com/watch?v=WEmvT2YFlQw&list=PL6n9fhu94yhVwbuqXKuPzchWNjZ8GVcJa)
+- [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
 
 
 # Git/GitHub Articles
