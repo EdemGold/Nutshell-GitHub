@@ -66,6 +66,10 @@ This project was built to provide resources for developers to find all they need
 - [How To Use Git: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 - [How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)
 - [How To Use Git Effectively](https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively)
+- [Git all-in-one cheat sheet: A collection of the most useful git commands](https://blog.learncodeonline.in/git-all-in-one-cheat-sheet-a-collection-of-the-most-useful-git-commands)
+- [GitHub - A complete guide](https://devhankering.hashnode.dev/github-a-complete-guide)
+- [A Git Cheatsheet Of Commands Every Developer Should Use](https://ravimengar.hashnode.dev/a-git-cheatsheet-of-commands-every-developer-should-use)
+- [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - [How To Use Git Branches](https://www.digitalocean.com/community/tutorials/how-to-use-git-branches)
 
 
