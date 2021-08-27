@@ -17,9 +17,11 @@ This project was built to provide resources for developers to find all they need
 
 - [Introduction to Git and GitHub - Offered By Google](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation&utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-ROW&utm_content=11-GoogleITwithPython-ROW&campaignid=9733806670&adgroupid=119184274733&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507191775308&hide_mobile_promo&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs8cqMR-9WYlilq7CrcFTkE7wQT1K7qv1XDpTa5HtjEJckeoyiU6cpRoCyCgQAvD_BwE)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Git and GitHub Crash Course By Google Coursera](https://www.youtube.com/watch?v=PtBr0fpKyFg)
 - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
 - [Git Tutorial for Beginners](https://www.youtube.com/watch?v=XF99kTmS2gg)
+- [GitHub Basics Tutorial - How to Use GitHub](https://www.youtube.com/watch?v=x0EYpi38Yp4)
 - [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github)
 - [Git Tutorial for Beginners - The Basics](https://www.youtube.com/watch?v=ly4niPr9vUo)
 - [Manage Your Versions with Git (Part I)](https://www.coursera.org/projects/git-1)
@@ -28,6 +30,8 @@ This project was built to provide resources for developers to find all they need
 - [Git & Github Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=iCKAWxfVWUY)
 - [Git Tutorial For Beginners - Kudvenkat](https://www.youtube.com/watch?v=WEmvT2YFlQw&list=PL6n9fhu94yhVwbuqXKuPzchWNjZ8GVcJa)
 - [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
+- [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- [Git And GitHub Full Course In 3 Hours | Git And GitHub Tutorial For Beginners ](https://www.youtube.com/watch?v=liwv7Hi68aI)
 
 
 # Git/GitHub Articles
