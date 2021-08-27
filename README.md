@@ -13,6 +13,15 @@ This project was built to provide resources for developers to find all they need
 * [Git/GitHub Repositories](gitgithub-repositories) - Instructions on how to use Git or GitHub can be found in these repositories.
 * [Git/GitHub Articles](#gitgithub-articles) - The basics and fundamentals of Git and GitHub are explained in these articles.
 
+# Git/GitHub Courses/Videos
+
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&t=934s)
+- [Git Essentials: Mini Course](https://www.udemy.com/course/git-essentials-mini-course/)
+- [Introduction to GitHub- The GitHub Training Team](https://lab.github.com/githubtraining/introduction-to-github)
+- [How to use GitHub | What is GitHub | Git and GitHub Tutorial | Edureka](https://www.youtube.com/watch?v=PQsJR8ci3J0)
+- [How Git Works- Plurasight](https://www.pluralsight.com/courses/how-git-works)
+
+
 # Git/GitHub Articles
 
 - [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
