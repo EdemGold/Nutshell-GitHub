@@ -18,6 +18,7 @@ This project was built to provide resources for developers to find all they need
 - [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
 - [Git and GitHub SSH Configuration](https://chrisdevcode.hashnode.dev/git-and-github-ssh-configuration)
 - [Getting Started with GitHub CLI](https://onyxcode.net/gh-cli-getting-started)
+- [GitHub Actions Starter Pack](https://github.com/jasonbarry/github-actions-starter-pack) - Sample code project for automating various tasks via GitHub Actions.
 - [How to use Git and GitHub inside of VS Code Editor](https://blog.thefierycoder.tech/how-to-use-git-and-github-inside-of-vs-code-editor)
 - [Two Git commands you probably missed in your daily routine](https://thelinuxli.ch/two-git-commands-you-probably-missed-in-your-daily-routine)
 - [How to Use Branches in Git – the Ultimate Cheatsheet](https://www.freecodecamp.org/news/how-to-use-branches-in-git/)
