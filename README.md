@@ -42,6 +42,11 @@ This project was built to provide resources for developers to find all they need
 - [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
 - [Git and GitHub Beginner Tutorials](https://www.youtube.com/watch?v=-U-eUHI6euM&list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG)
 - [Git and GitHub Tutorials](https://www.youtube.com/watch?v=r50BKIFGCI0&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
+- [Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+- [Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
+- [Git and GitHub Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=3fUbBnN_H2c)
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
+- [Git Tutorial - Telusko](https://www.youtube.com/watch?v=OdbBmvfThJY&list=PLsyeobzWxl7q2eaUkorLZExfd7qko9sZC)
 
 # Git/GitHub Articles
 
