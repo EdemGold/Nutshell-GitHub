@@ -8,7 +8,8 @@ GitHub is a huge resource for developers, it houses most of the code used for so
 
 This project was built to provide resources for developers to find all they need to understand Git and GitHub.
 
-
+## Quick Links
+* [Git/GitHub Courses/Videos](#gitgithub-coursesvideos) - Courses or videos that clarify what Git/GitHub is about and how to utilize them.
 
 # Contributing
 
