@@ -13,7 +13,7 @@ This project was built to provide resources for developers to find all they need
 * [Git/GitHub Repositories](gitgithub-repositories) - Instructions on how to use Git or GitHub can be found in these repositories.
 * [Git/GitHub Articles](gitgithub-articles) - The basics and fundamentals of Git and GitHub are explained in these articles.
 
-# Git/GitHub Courses/Videos
+# Git/GitHub Articles
 
 - [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
 - [Git and GitHub SSH Configuration](https://chrisdevcode.hashnode.dev/git-and-github-ssh-configuration)
