@@ -1,5 +1,7 @@
 # Github in a Nutshell
 
+![Image](Readme-Image.jpg)
+
 > The journey of a thousand miles begins with a single step.
 
 ## Introduction
