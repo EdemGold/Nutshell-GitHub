@@ -61,6 +61,9 @@ This project was built to provide resources for developers to find all they need
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [Git - The Simple Guide](https://github.com/rogerdudler/git-guide) - Just a simple guide for getting started with git.
 - [Learn Git](https://github.com/DevMountain/learn-git) - Just a basic repository for learning git.
+- [Git and Git Flow Cheat Sheet ](https://github.com/arslanbilal/git-cheat-sheet) - Git and Git flow cheat sheet.
+- [Git Style Guide](https://github.com/agis/git-style-guide) - A Git Style Guide.
+- [Git Magic](https://github.com/blynn/gitmagic) -  A guide to using Git
 
 
 # Git/GitHub Articles
