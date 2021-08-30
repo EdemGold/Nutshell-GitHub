@@ -31,6 +31,7 @@ This project was built to provide resources for developers to find all they need
 - [Introduction to GitHub- The GitHub Training Team](https://lab.github.com/githubtraining/introduction-to-github)
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&t=934s)
 - [How to use GitHub | What is GitHub | Git and GitHub Tutorial | Edureka](https://www.youtube.com/watch?v=PQsJR8ci3J0)
+- [Introduction to Git and GitHub](https://www.classcentral.com/course/introduction-git-github-18060) 
 - [Manage Your Versions with Git (Part I)](https://www.coursera.org/projects/git-1)
 - [Manage Your Versions with Git (Part II)](https://www.coursera.org/projects/git-2)
 - [Learn Gitpro-logo- Codecademy](https://www.codecademy.com/learn/learn-git)
@@ -74,6 +75,7 @@ This project was built to provide resources for developers to find all they need
 # Git/GitHub Articles
 
 - [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+- [Git and GitHub in a Nutshell: Definitive tutorial for beginners](https://www.educative.io/blog/git-github-tutorial-beginners)
 - [Git and GitHub SSH Configuration](https://chrisdevcode.hashnode.dev/git-and-github-ssh-configuration)
 - [Getting Started with GitHub CLI](https://onyxcode.net/gh-cli-getting-started)
 - [How to use Git and GitHub inside of VS Code Editor](https://blog.thefierycoder.tech/how-to-use-git-and-github-inside-of-vs-code-editor)
@@ -85,6 +87,8 @@ This project was built to provide resources for developers to find all they need
 - [How to setup GitHub Actions on your Github repository](https://blog.bhanuteja.dev/30-git-commands-that-i-frequently-use)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [How To Use Git: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+- [5 GitHub tips for new coders](https://medium.com/free-code-camp/5-github-tips-for-new-coders-2f312689ffd5?source=search_post---------2)
+- [Why you should stop using Git rebase](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1?source=search_post---------0)
 - [The most basic and essential GIT commands walkthrough](https://bearcub3.hashnode.dev/the-most-basic-and-essential-git-commands-walkthrough-ckgmw77b3012po9s188vag2ig)
 - [Don't overcomplicate git](https://h.daily-dev-tips.com/dont-overcomplicate-git)
 - [Learn the Basics of Git in Under 10 Minutes](https://nand.blog/git101)
