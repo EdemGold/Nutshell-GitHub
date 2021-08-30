@@ -84,6 +84,7 @@ This project was built to provide resources for developers to find all they need
 - [Git Basics: Adding more changes to your last commit](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8?source=search_post)
 - [Two Git commands you probably missed in your daily routine](https://thelinuxli.ch/two-git-commands-you-probably-missed-in-your-daily-routine)
 - [How to Use Branches in Git – the Ultimate Cheatsheet](https://www.freecodecamp.org/news/how-to-use-branches-in-git/)
+- [https://medium.com/free-code-camp/what-is-git-and-how-to-use-it-c341b049ae61?source=search_post](https://medium.com/free-code-camp/what-is-git-and-how-to-use-it-c341b049ae61?source=search_post)
 - [Know how Git works: Behind the Scenes!](https://sohamsshah.hashnode.dev/know-how-git-works-behind-the-scenes-aa40567082ba)
 - [Git Checkout Remote Branch Tutorial](https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/)
 - [How to Get Started with Version Control Using Git](https://www.freecodecamp.org/news/get-started-with-version-control-and-git/)
