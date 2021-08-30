@@ -31,6 +31,7 @@ This project was built to provide resources for developers to find all they need
 - [Introduction to GitHub- The GitHub Training Team](https://lab.github.com/githubtraining/introduction-to-github)
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&t=934s)
 - [How to use GitHub | What is GitHub | Git and GitHub Tutorial | Edureka](https://www.youtube.com/watch?v=PQsJR8ci3J0)
+- [Introduction to Git and GitHub](https://www.classcentral.com/course/introduction-git-github-18060) 
 - [Manage Your Versions with Git (Part I)](https://www.coursera.org/projects/git-1)
 - [Manage Your Versions with Git (Part II)](https://www.coursera.org/projects/git-2)
 - [Learn Gitpro-logo- Codecademy](https://www.codecademy.com/learn/learn-git)
@@ -60,15 +61,21 @@ This project was built to provide resources for developers to find all they need
 - [Git Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [Git - The Simple Guide](https://github.com/rogerdudler/git-guide) - Just a simple guide for getting started with git.
+- [Git-it (Desktop App)](https://github.com/jlord/git-it-electron) - Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
 - [Learn Git](https://github.com/DevMountain/learn-git) - Just a basic repository for learning git.
 - [Git and Git Flow Cheat Sheet ](https://github.com/arslanbilal/git-cheat-sheet) - Git and Git flow cheat sheet.
 - [Git Style Guide](https://github.com/agis/git-style-guide) - A Git Style Guide.
-- [Git Magic](https://github.com/blynn/gitmagic) -  A guide to using Git
-
+- [Git Magic](https://github.com/blynn/gitmagic) -  A guide to using Git.
+- [Git Cheat Sheet](https://github.com/jakubpawlowicz/git-cheat-sheet) - My git cheat sheet.
+- [Useful Git Commands](https://github.com/bpassos-zz/git-commands) - List of useful git commands.
+- [Getting Started With Git and GitHub](https://github.com/dtbootcamp/getting-started-with-git-and-github) - Explaining Git and GitHub.
+- [Git Cheats - Cheatsheet For Git Commands](https://github.com/excalith/git-cheats) - Git Cheats - Interactive Cheatsheet For Git Commands.
+- [My Git Cheatsheet](https://github.com/AlexZeitler/gitcheatsheet) - My personal git cheat sheet.
 
 # Git/GitHub Articles
 
 - [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+- [Git and GitHub in a Nutshell: Definitive tutorial for beginners](https://www.educative.io/blog/git-github-tutorial-beginners)
 - [Git and GitHub SSH Configuration](https://chrisdevcode.hashnode.dev/git-and-github-ssh-configuration)
 - [Getting Started with GitHub CLI](https://onyxcode.net/gh-cli-getting-started)
 - [How to use Git and GitHub inside of VS Code Editor](https://blog.thefierycoder.tech/how-to-use-git-and-github-inside-of-vs-code-editor)
@@ -80,6 +87,8 @@ This project was built to provide resources for developers to find all they need
 - [How to setup GitHub Actions on your Github repository](https://blog.bhanuteja.dev/30-git-commands-that-i-frequently-use)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [How To Use Git: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+- [5 GitHub tips for new coders](https://medium.com/free-code-camp/5-github-tips-for-new-coders-2f312689ffd5?source=search_post---------2)
+- [Why you should stop using Git rebase](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1?source=search_post---------0)
 - [The most basic and essential GIT commands walkthrough](https://bearcub3.hashnode.dev/the-most-basic-and-essential-git-commands-walkthrough-ckgmw77b3012po9s188vag2ig)
 - [Don't overcomplicate git](https://h.daily-dev-tips.com/dont-overcomplicate-git)
 - [Learn the Basics of Git in Under 10 Minutes](https://nand.blog/git101)
