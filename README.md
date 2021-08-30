@@ -64,11 +64,12 @@ This project was built to provide resources for developers to find all they need
 - [Learn Git](https://github.com/DevMountain/learn-git) - Just a basic repository for learning git.
 - [Git and Git Flow Cheat Sheet ](https://github.com/arslanbilal/git-cheat-sheet) - Git and Git flow cheat sheet.
 - [Git Style Guide](https://github.com/agis/git-style-guide) - A Git Style Guide.
-- [Git Magic](https://github.com/blynn/gitmagic) -  A guide to using Git
-- [Git Cheat Sheet](https://github.com/jakubpawlowicz/git-cheat-sheet) - My git cheat sheet
+- [Git Magic](https://github.com/blynn/gitmagic) -  A guide to using Git.
+- [Git Cheat Sheet](https://github.com/jakubpawlowicz/git-cheat-sheet) - My git cheat sheet.
 - [Useful Git Commands](https://github.com/bpassos-zz/git-commands) - List of useful git commands.
 - [Getting Started With Git and GitHub](https://github.com/dtbootcamp/getting-started-with-git-and-github) - Explaining Git and GitHub.
-
+- [Git Cheats - Cheatsheet For Git Commands](https://github.com/excalith/git-cheats) - Git Cheats - Interactive Cheatsheet For Git Commands.
+- [My Git Cheatsheet](https://github.com/AlexZeitler/gitcheatsheet) - My personal git cheat sheet.
 
 # Git/GitHub Articles
 
