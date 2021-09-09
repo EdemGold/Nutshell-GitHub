@@ -165,7 +165,9 @@ This project was built to provide resources for developers to find all they need
 
 - [Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide](https://www.pdfdrive.com/git-learn-version-control-with-git-a-step-by-step-ultimate-beginners-guide-e158237381.html) - The ultimate guide for beginenrs to learn the basic functionality of git version control system.
 - [Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git](https://www.pdfdrive.com/git-for-teams-a-user-centered-approach-to-creating-efficient-workflows-in-git-e158737881.html) - This a practical guide to version control that also explains how using Git as a focal point can help your team work better together.
-
+- [Pro Git](https://www.pdfdrive.com/pro-git-everything-you-need-to-know-about-git-e176073017.html) -  Everything You Need to Know About Git
+- [Version Control with Git](https://www.pdfdrive.com/version-control-with-git-e18853221.html) - It gives you a good, hands-on foundation for learning how to use Git as a version control system.
+- [Learn Git in a Month of Lunches](https://www.pdfdrive.com/learn-git-in-a-month-of-lunches-e34369237.html) - Introduces you to the fundamentals of git and how to make the most of them.
 
 # Contributing
 
