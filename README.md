@@ -14,6 +14,7 @@ This project was built to provide resources for developers to find all they need
 * [Git/GitHub Courses/Videos](#gitgithub-coursesvideos) - Courses or videos that clarify what Git or GitHub is about and how to utilize them.
 * [Git/GitHub Repositories](#gitgithub-repositories) - Instructions on how to use Git or GitHub can be found in these repositories.
 * [Git/GitHub Articles](#gitgithub-articles) - The basics and fundamentals of Git and GitHub are explained in these articles.
+* [Git/GitHub Books](#gitgithub-books) - Books to help you learn how to utilize GitHub and master the Git version control system.
 
 # Git/GitHub Courses/Videos
 
