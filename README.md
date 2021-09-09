@@ -161,6 +161,11 @@ This project was built to provide resources for developers to find all they need
 - [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - [How To Use Git Branches](https://www.digitalocean.com/community/tutorials/how-to-use-git-branches)
 
+# Git/GitHub Books
+
+- [Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide](https://www.pdfdrive.com/git-learn-version-control-with-git-a-step-by-step-ultimate-beginners-guide-e158237381.html) - The ultimate guide for beginenrs to learn the basic functionality of git version control system.
+- [Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git](https://www.pdfdrive.com/git-for-teams-a-user-centered-approach-to-creating-efficient-workflows-in-git-e158737881.html) - This a practical guide to version control that also explains how using Git as a focal point can help your team work better together.
+
 
 # Contributing
 
