@@ -11,7 +11,7 @@
   ```
 - Keep your cloned repo up to date by pulling from upstream (to avoid any merge conflicts while committing new changes): 
   ```
-  git pull upstream main https://github.com/EdemGold/Nutshell-GitHub.git
+  git pull upstream master
   ```
 - Create your  own branch:  `git checkout -b <branch-name>`
 - Commit all the changes (use descriptive commit messages): git commit -m "a descriptive commit message"
