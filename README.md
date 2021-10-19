@@ -163,16 +163,22 @@ This project was built to provide resources for developers to find all they need
 
 # Git/GitHub Books
 
-- [Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide](https://www.pdfdrive.com/git-learn-version-control-with-git-a-step-by-step-ultimate-beginners-guide-e158237381.html) - The ultimate guide for beginenrs to learn the basic functionality of git version control system.
+- [Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide](https://www.pdfdrive.com/git-learn-version-control-with-git-a-step-by-step-ultimate-beginners-guide-e158237381.html) - The ultimate guide for beginners to learn the basic functionality of git version control system.
 - [Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git](https://www.pdfdrive.com/git-for-teams-a-user-centered-approach-to-creating-efficient-workflows-in-git-e158737881.html) - This a practical guide to version control that also explains how using Git as a focal point can help your team work better together.
-- [Pro Git](https://www.pdfdrive.com/pro-git-everything-you-need-to-know-about-git-e176073017.html) -  Everything You Need to Know About Git
+- [Pro Git](https://www.pdfdrive.com/pro-git-everything-you-need-to-know-about-git-e176073017.html) -  Everything You Need to Know About Git.
 - [Version Control with Git](https://www.pdfdrive.com/version-control-with-git-e18853221.html) - It gives you a good, hands-on foundation for learning how to use Git as a version control system.
 - [Learn Git in a Month of Lunches](https://www.pdfdrive.com/learn-git-in-a-month-of-lunches-e34369237.html) - Introduces you to the fundamentals of git and how to make the most of them.
+- [Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide](https://www.pdfdrive.com/git-learn-version-control-with-git-a-step-by-step-ultimate-beginners-guide-e158237381.html) - This book explains how to use Git for project version control in a distributed environment while working on web-based and non web-based applications development.
+- [Distributed Version Control with Git: Mastering the Git command line - Third Edition
+](https://www.pdfdrive.com/distributed-version-control-with-git-mastering-the-git-command-line-third-edition-e157843022.html) - This book explains the usage of the Git version control system via the command line.
+- [Professional Git](https://www.pdfdrive.com/professional-git-e176044429.html) - This book is organized as a series of chapters that teach you Git from the ground up, teaching you what you need to know and building on to become proficient before adding new concepts.
+- [Git Notes for Professionals](https://goalkicker.com/GitBook) - This book explains the fundamentals and concepts of Git using practical examples.
+- [Git Pocket Guide](https://books.google.com.ng/books?id=tPv2vX2czJoC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false) - The primary goal of this book is to provide a concise, readable introduction to Git for new users, as well as a reference to common commands and procedures that will be useful even after you've gotten some git under your belt. 
 
 # Contributing
 
 Feel free to add more resources to this repo by either creating an issue or making a Pull Request. See our [contribution guidelines](CONTRIBUTING.md) to get started.
 
-## License
+# License
 
 This repository is under an [MIT License](https://choosealicense.com/licenses/mit/).
