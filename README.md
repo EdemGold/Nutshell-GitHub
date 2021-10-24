@@ -8,7 +8,7 @@
 
 GitHub is a huge resource for developers, it houses most of the code used for software development. But unfortunately, a lot of developers don't know how to use Git or GitHub especially beginners and they are unable to contribute to open source due of this gap in their knowledge.
 
-This project was built to provide resources for developers to find all they need to understand Git and GitHub.
+This project was built to provide resources for developers to find all they need to understand Git and GitHub. Here's a full view of the [project](https://mannuel25.github.io/Nutshell-GitHub/)
 
 ## Quick Links
 * [Git/GitHub Courses/Videos](#gitgithub-coursesvideos) - Courses or videos that clarify what Git or GitHub is about and how to utilize them.
